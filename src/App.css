@@ -1,0 +1,161 @@
+.linkedin{
+  width: 100px;
+  padding-left: 40px;
+
+}
+.body{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+ box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.336);
+  border-radius: 10px;
+  border-color: rgba(193, 193, 193, 0.817);
+  width: 350px;
+  margin-inline:auto;
+  margin-top: 30px;
+  padding:30px;
+}
+.sign{
+  font-weight: bold;
+  font-size: 2rem;
+  margin:0;
+
+}
+.email{
+  background-color:#b4d9fd79;
+  font-size: 1.4rem;
+  font-family: Georgia;
+  color:black;
+  margin-bottom: 20px;
+  border-color: black;
+  border-radius: 5px;
+  padding-inline:10px;
+  padding-block:15px;
+
+}
+
+
+.forgot{
+  font-size:1.4rem;
+  color:#0a65c2;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.signbutton{
+  font-size:1.4rem;
+  color:white;
+  border: none;
+  background-color: #0a65c2;
+  border-radius: 999999px;
+  padding-block: 15px;
+}
+.signbutton:hover{
+  background-color:#1079e1;
+}
+.signbutton:active{
+  background-color:#000000;
+}
+
+.or{
+  display:flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.line1{
+  width: 100%;
+  height: 100%;
+  font-size:1.4rem
+  
+}
+.Apple{
+  width: 25px; 
+  margin-right:20px;
+}
+.appletext{
+font-size: 1.5rem;
+padding-block: 10px;
+border: solid;
+border-color:rgb(43, 37, 37);
+border-radius: 100000px;
+background-color:  white;
+display:flex;
+justify-content:center;
+}
+.appletext:hover{
+  background-color: grey;
+}
+.appletext:active{
+  background-color:aliceblue;
+}
+.logout{
+  font-size:2rem;
+  color:white;
+  background-color:#0a65c2;
+  border: none;
+  border-radius: 10000px;
+  width: 30%;
+  
+}
+.logout:hover{
+  background-color:#2264a5;
+}
+.logout:active{
+  background-color:#647f9a
+}
+
+
+.dark{
+  background-color:black;
+  font-size: 1rem;
+  font-weight:bold;
+  color:white;
+  border:none;
+  border-radius:50px;
+  width:150px;
+  padding-block: 20px;
+  margin-left:100px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-inline:auto;
+  
+  
+}
+.dark:hover{
+  background-color:#373333;
+}
+.dark:active{
+  background-color:#4b4848;
+}
+.darkness{
+  background-color: black;
+  color: white;
+  
+}
+.darknes{
+  background-color:rgba(246, 240, 240, 0.345);
+  color: rgb(251, 244, 244);
+}
+.emaildark{
+  background-color: rgba(246, 240, 240, 0.345);
+}
+.butt{
+  background-color: rgb(150, 131, 131);
+  color: black;
+}
+.imgsize{
+  width:28px;
+  padding-right:5px;
+}
+.logoutformat{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.joinnow{
+  width:max-content;
+  margin-inline:auto;
+}
+.creator{
+  height:100vh;
+}
